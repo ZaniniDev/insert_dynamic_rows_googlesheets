@@ -1,2 +1,1 @@
-# insert_dynamic_rows_googlesheets
-Dynamic CRUD (INSERT) Functionality for Google Sheets with App Script
+Hey everyone, I'd like to share with you an amazing script that I developed, which demonstrates an intelligent and flexible solution for adding a list of JSON objects. With this code, you don't have to worry about the order of the spreadsheet in question, since the objects in the list can be out of order and still be inserted correctly. This brings more ease and flexibility to your work, allowing you to focus on other important tasks. I hope you enjoy my code and can find inspiration here for your own projects!
